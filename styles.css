@@ -1,0 +1,42 @@
+.title {
+  color: red;
+  font-size:30px;
+  text-align: center;
+}
+
+.description {
+  color: darkgrey;
+  font-size: 12px;
+  text-align: left;
+  padding: 20px;
+}
+
+.image {
+  width: 200px;
+  position: relative;
+  left: 20px;
+}
+
+.chart {
+  width: 400px;
+  height: 400px;
+}
+
+.circ1 {
+  stroke: green;
+  fill: white;
+  stroke-width: 3;
+}
+
+.rect1 {
+  stroke: red;
+  fill: blue;
+  stroke-width:5;
+}
+
+.poly1 {
+  stroke: black;
+  stroke-width:2;
+  fill: purple;
+  fill-opacity: 0.6;
+}
